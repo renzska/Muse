@@ -9,7 +9,7 @@
 import Foundation
 import MediaPlayer
 
-@available(OSX 10.12.2, *)
+@available(macOS 12.0, *)
 extension WindowController {
     
     // MARK: TouchBar main playback controls
@@ -87,7 +87,7 @@ extension WindowController {
         remoteCommandCenter.togglePlayPauseCommand.activate(self, action: #selector(handleTogglePlayPause(event:)))
         
         // Previous/next track toggle
-        // These work only on 10.12.2+
+        // These work only on macOS 12.0+
         remoteCommandCenter.previousTrackCommand.activate(self, action: #selector(handlePreviousTrack(event:)))
         remoteCommandCenter.nextTrackCommand.activate(self, action: #selector(handleNextTrack(event:)))
         

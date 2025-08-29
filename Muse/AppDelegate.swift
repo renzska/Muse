@@ -8,7 +8,7 @@
 
 import Cocoa
 
-@available(OSX 10.12.2, *)
+@available(macOS 12.0, *)
 @NSApplicationMain
 class AppDelegate: NSObject, NSApplicationDelegate {
     

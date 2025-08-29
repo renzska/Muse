@@ -11,7 +11,7 @@ import QuartzCore
 
 // MARK: ViewController
 
-@available(OSX 10.12.2, *)
+@available(macOS 12.0, *)
 class ViewController: NSViewController {
     
     // MARK: Properties
