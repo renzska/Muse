@@ -9,7 +9,7 @@
 import Foundation
 import MediaPlayer
 
-@available(OSX 10.12.2, *)
+@available(macOS 12.0, *)
 extension MPRemoteCommand {
     
     // Convenience function to simplify the activation

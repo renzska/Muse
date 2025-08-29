@@ -6,7 +6,7 @@
 //  Copyright © 2016 Edge Apps. All rights reserved.
 //
 
-@available(OSX 10.12.2, *)
+@available(macOS 12.0, *)
 extension NSImage {
     
     // MARK: Project drawables

@@ -10,7 +10,7 @@ import Cocoa
 import Carbon.HIToolbox
 import MediaPlayer
 
-@available(OSX 10.12.2, *)
+@available(macOS 12.0, *)
 class WindowController: NSWindowController, NSWindowDelegate {
     
     // MARK: App delegate getter

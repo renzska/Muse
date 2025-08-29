@@ -1,6 +1,6 @@
 ## <img src=Muse/Assets.xcassets/AppIcon.appiconset/icon-512@2x.png width="32"> Muse
 
-An open-source Spotify, iTunes and Vox controller with TouchBar support and system-wide TouchBar controls (à la iTunes).
+An open-source Spotify, iTunes and Vox controller with TouchBar support and system-wide TouchBar controls (à la iTunes). Compatible with macOS Sequoia.
 [Demo video](https://www.youtube.com/watch?v=1hxwfGBvghg)
 
 <img src=Screenshots/Window.png width="387"><img src=Screenshots/Window2.png width="387">
